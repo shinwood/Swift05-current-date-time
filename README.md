@@ -5,6 +5,7 @@
 
 
 ## 预览
+![Preview](https://raw.githubusercontent.com/shinwood/Swift05-current-date-time/master/05-current-date-time.gif)
 
 
 ## 更多阅读
